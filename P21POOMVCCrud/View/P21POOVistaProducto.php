@@ -8,6 +8,7 @@
 </head>
 <body>  
      <div class="container-fluid">
+          <h1>Bifurcación</h1>
          <div class="row justify-content-md-center">
              <div class="col">
              <form action="Controller/P21POOControladorInsert.php" method="POST" enctype="multipart/form-data">
